@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ecommerce Visual System"
+  short_description: "Build TT Shop-ready product visual systems"
+  default_prompt: "Use $ecommerce-visual-system to create a TikTok Shop product visual system for this product."

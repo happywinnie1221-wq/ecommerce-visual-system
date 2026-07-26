@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.env
+.env
+.env.*
+auth.json
+outputs/
+generated/
+tmp/
+*.log
