@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tumbler Print Ecommerce"
+  short_description: "Create tumbler print PSDs and shop galleries"
+  default_prompt: "Use $tumbler-print-ecommerce to prepare a tumbler print PSD and TikTok Shop image set."
